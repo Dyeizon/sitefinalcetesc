@@ -1,0 +1,25 @@
+.dark {
+    background-color: black;
+    color: white;
+}
+
+body {
+    transition: all 0.5s;
+}
+
+button {
+    padding: 10px 40px;
+    background-color: lightblue;
+    border: 2px solid black;
+    border-radius: 10px;
+
+    font-size: 16px;
+}
+
+img {
+    width: 100%;
+}
+
+.esconder {
+    display: none;
+}
